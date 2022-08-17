@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on Freelance Projects.
 - 💬 Ask me about Anything Related to Data Science
 - 📫 How to reach me: someshghaturle@gmail.com / https://www.linkedin.com/in/somesh-ghaturle/
-- 😄 Pronouns: ...
+- 😄 Pronouns: [soːmeːʂ]
 - ⚡ Fun fact: I Think about code all day. (Implementation)
 
