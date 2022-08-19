@@ -7,4 +7,4 @@
 - 📫 How to reach me: someshghaturle@gmail.com / https://www.linkedin.com/in/somesh-ghaturle/
 - 😄 Pronouns: [soːmeːʂ]
 - ⚡ Fun fact: I Think about code all day. (Implementation)
-
+- :) 
