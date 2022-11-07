@@ -66,4 +66,4 @@
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somesh-ghaturle&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
+<p align="center"> <a href="https://github.com/somesh-ghaturle/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somesh-ghaturle&layout=compact&theme=algolia" alt="somesh-ghaturle" /></a> </p>
