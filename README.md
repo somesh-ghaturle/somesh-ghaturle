@@ -25,6 +25,7 @@
   <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif" width="480px" />
 </div>
 
+<p align="center"><img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large." alt="Synthwave" height="300" width="500"></p>
 ---
 ### :man_technologist: About Me :
 - 🔭 I’m currently working with New Balance as Data Science Engineer.
@@ -55,8 +56,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" **alt="Tensorflow" width="40"height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" **alt="Xcode" width="40" height="40"/></div>
 
-[//]:<img src="https://github-readme-stats.vercel.app/api?username=somesh-ghaturle&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
-
 ---
 
 ### :fire: My Stats :
@@ -64,6 +63,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somesh-ghaturle&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 ## :trophy: Git profile Trophies
 
 <p align="left"> <a href="https://github.com/somesh-ghaturle/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somesh-ghaturle&layout=compact&theme=algolia" alt="somesh-ghaturle" /></a> </p>
