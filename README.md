@@ -35,7 +35,8 @@
 - ⚡ Fun fact: I Think about code all day. (Implementation)
 - :) 
 ---
-### Languages and Tools
+
+### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupter " width="40" height="40"/>&nbsp;
@@ -54,5 +55,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" **alt="Tensorflow" width="40"height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" **alt="Xcode" width="40" height="40"/></div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=somesh-ghaturle&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+[//]:<img src="https://github-readme-stats.vercel.app/api?username=somesh-ghaturle&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=somesh-ghaturle&theme=gruvbox_duo&hide_border=true&border_radius=4.6&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somesh-ghaturle&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
