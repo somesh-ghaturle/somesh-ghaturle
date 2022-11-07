@@ -24,7 +24,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-###  About Me :
+---
+
+### :man_technologist: About Me :
 - 🔭 I’m currently working with New Balance as Data Science Engineer.
 - 🌱 I’m currently learning Deep Learning with Pytourch
 - 👯 I’m looking to collaborate on Freelance Projects.
@@ -32,6 +34,7 @@
 - 😄 Pronouns: [soːmeːʂ]
 - ⚡ Fun fact: I Think about code all day. (Implementation)
 - :) 
+---
 ### Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
