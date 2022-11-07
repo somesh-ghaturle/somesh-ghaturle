@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/somesh-ghaturle/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="someshghaturle@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=someshghaturle@gmail.com&body=my-text">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://twitter.com/SomeshGhaturle">
@@ -14,6 +14,8 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=somesh-ghaturle&style=flat-square&color=blue" alt=""/>
+
+
 
 - 🔭 I’m currently working with New Balance as Data Science Engineer.
 - 🌱 I’m currently learning Deep Learning with Pytourch
