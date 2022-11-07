@@ -13,6 +13,8 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=somesh-ghaturle&style=flat-square&color=blue" alt=""/>
+
 - 🔭 I’m currently working with New Balance as Data Science Engineer.
 - 🌱 I’m currently learning Deep Learning with Pytourch
 - 👯 I’m looking to collaborate on Freelance Projects.
