@@ -22,7 +22,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif" width="600" height="300"/>
+  <img src="/media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ### :man_technologist: About Me :
