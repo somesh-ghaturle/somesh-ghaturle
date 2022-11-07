@@ -22,7 +22,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif" width="343" height = "480"/>
+  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif" width="480" height = "343"/>
 </div>
 
 ---
