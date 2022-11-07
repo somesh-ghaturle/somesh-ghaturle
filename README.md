@@ -22,10 +22,9 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif" width="480px" />
+  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif" height="300" width="480" />
 </div>
 
-<p align="center"><img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large." alt="Synthwave" height="300" width="500"></p>
 ---
 ### :man_technologist: About Me :
 - 🔭 I’m currently working with New Balance as Data Science Engineer.
@@ -62,8 +61,3 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=somesh-ghaturle&theme=gruvbox_duo&hide_border=true&border_radius=4.6&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somesh-ghaturle&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-## :trophy: Git profile Trophies
-
-<p align="left"> <a href="https://github.com/somesh-ghaturle/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somesh-ghaturle&layout=compact&theme=algolia" alt="somesh-ghaturle" /></a> </p>
