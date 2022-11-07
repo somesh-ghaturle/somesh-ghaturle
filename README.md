@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 <div id="badges">
@@ -16,6 +16,9 @@
 <img src="https://komarev.com/ghpvc/?username=somesh-ghaturle&style=flat-square&color=blue" alt=""/>
 
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 - 🔭 I’m currently working with New Balance as Data Science Engineer.
 - 🌱 I’m currently learning Deep Learning with Pytourch
