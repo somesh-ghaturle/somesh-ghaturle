@@ -24,8 +24,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
----
 
+---
 ### :man_technologist: About Me :
 - 🔭 I’m currently working with New Balance as Data Science Engineer.
 - 🌱 I’m currently learning Deep Learning with Pytourch
