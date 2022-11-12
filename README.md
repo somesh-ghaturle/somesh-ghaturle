@@ -19,7 +19,7 @@
 </div>
 <!-- Place this tag where you want the button to render. -->
 <div align = "center">
-<a class="github-button" href="https://github.com/buttons" aria-label="Follow @buttons on GitHub" >Follow @buttons</a>
+<a class="github-button" href="https://github.com/somesh-ghaturle" aria-label="Follow @buttons on GitHub" >Follow</a>
   </div>
 <h1 align = "center">
   hey there
