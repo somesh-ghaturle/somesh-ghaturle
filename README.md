@@ -17,8 +17,8 @@
 <div align = "center">
 <img src="https://komarev.com/ghpvc/?username=somesh-ghaturle&style=flat-square&color=blue" alt="" align = "center"/>
 </div>
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/buttons" aria-label="Follow @buttons on GitHub">Follow @buttons</a>
 <h1 align = "center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
