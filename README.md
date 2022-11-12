@@ -57,7 +57,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" **alt="Tensorflow" width="40"height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" **alt="Xcode" width="40" height="40"/></div>
 
----
+----
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=somesh-ghaturle&theme=gruvbox_duo&hide_border=true&border_radius=4.6&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
