@@ -28,8 +28,8 @@
 </div>
 
 ### :man_technologist: About Me :
-- 🔭 I’m currently working with New Balance as Data Science Engineer.
-- 🌱 I’m currently learning Deep Learning with Pytourch
+- 🔭 
+- 🌱 I’m currently Pursuing Master in Data Science @Pace University.
 - 👯 I’m looking to collaborate on Freelance Projects.
 - 💬 Ask me about Anything Related to Data Science
 - 😄 Pronouns: [soːmeːʂ]
