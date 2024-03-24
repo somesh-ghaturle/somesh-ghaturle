@@ -32,7 +32,6 @@
 - 🌱 I’m currently Pursuing Master in Data Science @Pace University.
 - 👯 I’m looking to collaborate on Freelance Projects.
 - 💬 Ask me about Anything Related to Data Science
-- 😄 Pronouns: [soːmeːʂ]
 - ⚡ Fun fact: I Think about code all day. (Implementation)
 - :) 
 ---
