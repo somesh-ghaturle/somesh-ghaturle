@@ -153,14 +153,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=somesh-ghaturle&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
