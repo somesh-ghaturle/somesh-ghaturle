@@ -1,3 +1,10 @@
+<!-- Animated Typing Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Somesh+Ghaturle;Data+Scientist+%7C+Data+Engineer+%7C+AI+Enthusiast;Building+AI+Agents+%26+Analytics+Solutions;Always+Learning+%26+Sharing+Knowledge" alt="Typing Animation" />
+</div>
+
+---
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/somesh-ghaturle/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -51,6 +58,8 @@
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" alt="HuggingFace"/>&nbsp;
 <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" width="40" height="40" alt="MLflow"/>&nbsp;
 <img src="https://raw.githubusercontent.com/wandb/assets/main/logo.svg" width="40" height="40" alt="Weights & Biases"/>&nbsp;
+<img src="https://raw.githubusercontent.com/crewAIInc/crewAI/main/assets/crewai-logo.png" width="40" height="40" alt="CrewAI"/>&nbsp;
+<img src="https://avatars.githubusercontent.com/u/163549994?s=200&v=4" width="40" height="40" alt="Ollama"/>&nbsp;
 
 #### 📊 Data Science & Visualization  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>&nbsp;
@@ -96,6 +105,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=somesh-ghaturle&theme=gruvbox-duo&hide_border=true)](https://github.com/somesh-ghaturle)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somesh-ghaturle&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somesh-ghaturle&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
+
+[![Somesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=somesh-ghaturle&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
