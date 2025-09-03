@@ -27,14 +27,15 @@
   <img src="https://github.com/somesh-ghaturle/svg-s/blob/main/giphy-downsized-large.gif" width="600" height="300"/>
 </div>
 
-### :man_technologist: About Me :
-- 🔭 
-- 🌱 I’m currently Pursuing Master in Data Science @Pace University.
-- 👯 I’m looking to collaborate on Freelance Projects.
-- 💬 Ask me about Anything Related to Data Science
-- ⚡ Fun fact: I Think about code all day. (Implementation)
-- :) 
----
+### :man_technologist: About Me
+
+- 🎓 Pursuing my Master’s in Data Science at Pace University, building expertise in AI, machine learning, and advanced analytics.  
+- 💼 Experienced Data Scientist and Data Engineer, with professional experience at BMW, Tech Mahindra, New Balance, Kagool, and Swiggy.  
+- 🚀 Skilled in designing and deploying AI agents, LLM-powered solutions, scalable data pipelines (AWS Glue, Spark), and visualization dashboards (Tableau, Power BI).  
+- 🤝 Open to collaborating on freelance and innovative projects in AI, data engineering, and analytics.  
+- 💡 Passionate about bridging business needs with data-driven solutions and driving measurable impact.  
+- ⚡ Fun fact: I love solving complex problems and can think about code all day—implementation is my happy place!  
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
