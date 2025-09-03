@@ -51,7 +51,13 @@
 - 🌱 Currently exploring **Advanced RAG techniques** and **Multi-Agent Systems**
 
 ---
+## 🎯 Current Focus
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=🔭+Building+Multi-Agent+AI+Systems;🌱+Learning+Advanced+RAG+Techniques;👯+Looking+to+collaborate+on+AI+Projects;🤔+Exploring+LLM+Fine-tuning;💬+Ask+me+about+Data+Science+and+AI" alt="Current Focus" />
+</div>
+
+---
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -159,14 +165,6 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=somesh-ghaturle&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=🔭+Building+Multi-Agent+AI+Systems;🌱+Learning+Advanced+RAG+Techniques;👯+Looking+to+collaborate+on+AI+Projects;🤔+Exploring+LLM+Fine-tuning;💬+Ask+me+about+Data+Science+and+AI" alt="Current Focus" />
 </div>
 
 ---
