@@ -1,6 +1,6 @@
 <!-- Animated Typing Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Somesh+Ghaturle;Data+Scientist+%7C+Data+Engineer+%7C+AI+Enthusiast;Building+AI+Agents+%26+Analytics+Solutions;Always+Learning+%26+Sharing+Knowledge" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Somesh+Ghaturle;Data+Scientist+Engineer+%7C+AI+Enthusiast;Building+AI+Agents+%26+Analytics+Solutions;Always+Learning+%26+Sharing+Knowledge" alt="Typing Animation" />
 </div>
 
 <!-- Animated Wave Banner -->
