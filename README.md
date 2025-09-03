@@ -58,8 +58,8 @@
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" alt="HuggingFace"/>&nbsp;
 <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" width="40" height="40" alt="MLflow"/>&nbsp;
 <img src="https://raw.githubusercontent.com/wandb/assets/main/logo.svg" width="40" height="40" alt="Weights & Biases"/>&nbsp;
-<img src="https://raw.githubusercontent.com/crewAIInc/crewAI/main/assets/crewai-logo.png" width="40" height="40" alt="CrewAI"/>&nbsp;
-<img src="https://avatars.githubusercontent.com/u/163549994?s=200&v=4" width="40" height="40" alt="Ollama"/>&nbsp;
+<img src="https://avatars.githubusercontent.com/u/158137123?s=200&v=4" width="40" height="40" alt="CrewAI"/>&nbsp;
+<img src="https://avatars.githubusercontent.com/u/133067498?s=200&v=4" width="40" height="40" alt="Ollama"/>&nbsp;
 
 #### 📊 Data Science & Visualization  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>&nbsp;
@@ -107,6 +107,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somesh-ghaturle&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![Somesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=somesh-ghaturle&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Somesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=somesh-ghaturle&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
