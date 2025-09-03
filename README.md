@@ -166,68 +166,9 @@
 
 ## 📊 Weekly Development Breakdown
 
-<!--START_SECTION:waka-->
 ```text
 Python       12 hrs 30 mins  ████████████░░░░░░░░  60.5%
 JavaScript   4 hrs 15 mins   ████░░░░░░░░░░░░░░░░  20.6%
 SQL          2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░  10.5%
 Scala        1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░   7.3%
 Other        15 mins         ░░░░░░░░░░░░░░░░░░░░   1.1%
-```
-<!--END_SECTION:waka-->
-
----
-
-## 🚀 Recent Projects
-
-<div align="center">
-  <a href="https://github.com/somesh-ghaturle/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=somesh-ghaturle&repo=project1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/somesh-ghaturle/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=somesh-ghaturle&repo=project2&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
----
-
-## 💭 Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/somesh-ghaturle/somesh-ghaturle/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
-## 📬 Connect with Me
-
-<div align="center">
-  <p>
-    <strong>💼 Open for exciting opportunities in Data Science and AI!</strong><br/>
-    Feel free to reach out for collaborations or just a friendly chat about tech!
-  </p>
-  <a href="mailto:someshghaturle@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/somesh-ghaturle/">
-    <img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=70&animation=twinkling&fontColor=ffffff" />
-</div>
-
-<div align="center">
-  <strong>⭐ Star my repositories if you find them interesting!</strong>
-</div>
