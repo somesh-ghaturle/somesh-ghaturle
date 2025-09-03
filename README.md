@@ -3,6 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Somesh+Ghaturle;Data+Scientist+%7C+AI+Enthusiast;Building+AI+Agents+%26+Analytics+Solutions;Always+Learning+%26+Sharing+Knowledge" alt="Typing Animation" />
 </div>
 
+
 <!-- Animated Wave Banner -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome%20to%20My%20GitHub%20Profile&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
