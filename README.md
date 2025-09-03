@@ -61,7 +61,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="[https://github.com/somesh-ghaturle/somesh-ghaturle/blob/output/github-contribution-grid-snake-dark.svg](https://github.com/somesh-ghaturle/somesh-ghaturle/blob/gh-pages/github-contribution-grid-snake.svg)" alt="Snake animation" />
+  <img src="https://github.com/somesh-ghaturle/somesh-ghaturle/blob/gh-pages/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ## 🛠️ Tech Stack
