@@ -147,10 +147,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somesh-ghaturle&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somesh-ghaturle&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies
