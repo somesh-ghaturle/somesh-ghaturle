@@ -32,7 +32,7 @@
 
 ---
 
-> **Data Scientist & AI Engineer** with hands-on experience at **BMW, New Balance, Tech Mahindra & Swiggy**. I build multi-agent AI systems, scalable data pipelines, and production ML solutions. MS in Data Science @ **Pace University**.
+> **Data Scientist & AI Engineer**. I build multi-agent AI systems, scalable data pipelines, and production ML solutions. MS in Data Science @ **Pace University**.
 
 ---
 
