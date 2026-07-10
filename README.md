@@ -32,7 +32,7 @@
 
 ---
 
-> ✳ Data Scientist and AI Engineer focused on multi-agent systems, scalable data engineering, and production ML. I build systems that are useful, traceable, and ready for real workloads.
+> ✳ Data Scientist and AI Engineer focused on multi-agent systems, scalable data engineering, and production ML. I build systems that are useful, traceable, and ready for real workloads (Version 7.0).
 
 ---
 
