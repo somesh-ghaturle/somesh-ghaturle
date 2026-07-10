@@ -1,37 +1,37 @@
 <!-- HERO -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2E97F7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Somesh+Ghaturle;Data+Scientist+%7C+AI+Engineer;Building+AI+Agents+%26+Scalable+Pipelines;Shipping+Production+ML+Systems" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=D97757&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Somesh+Ghaturle;Data+Scientist+%7C+AI+Engineer;Building+AI+Agents+%26+Scalable+Pipelines;Shipping+Production+ML+Systems" alt="Typing Animation" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=&fontSize=45&animation=twinkling&fontColor=ffffff" alt="Hero Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EBDBBC,50:D97757,100:CC785C&height=180&section=header&text=&fontSize=45&animation=twinkling&fontColor=FAF9F5" alt="Hero Banner" />
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/somesh-ghaturle/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-191919?style=for-the-badge&logo=linkedin&logoColor=FAF9F5" alt="LinkedIn" />
   </a>
   <a href="mailto:someshghaturle@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-191919?style=for-the-badge&logo=gmail&logoColor=FAF9F5" alt="Gmail" />
   </a>
   <a href="https://github.com/somesh-ghaturle">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-191919?style=for-the-badge&logo=github&logoColor=FAF9F5" alt="GitHub" />
   </a>
   <a href="https://twitter.com/SomeshGhaturle">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/X-191919?style=for-the-badge&logo=x&logoColor=FAF9F5" alt="X" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=somesh-ghaturle&style=for-the-badge&color=2E97F7&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=somesh-ghaturle&style=for-the-badge&color=cc785c&label=PROFILE+VIEWS" alt="Profile Views" />
   <a href="https://github.com/somesh-ghaturle?tab=followers">
-    <img src="https://img.shields.io/github/followers/somesh-ghaturle?style=for-the-badge&color=2E97F7" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/somesh-ghaturle?style=for-the-badge&color=D97757&labelColor=191919" alt="GitHub followers" />
   </a>
 </div>
 
 ---
 
-> Data Scientist and AI Engineer focused on multi-agent systems, scalable data engineering, and production ML. I build systems that are useful, traceable, and ready for real workloads.
+> ✳ Data Scientist and AI Engineer focused on multi-agent systems, scalable data engineering, and production ML. I build systems that are useful, traceable, and ready for real workloads.
 
 ---
 
@@ -107,11 +107,11 @@ Cloud analytics
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=somesh-ghaturle&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=somesh-ghaturle&hide_border=true&background=FAF9F5&ring=D97757&fire=D97757&currStreakLabel=CC785C&currStreakNum=191919&sideNums=191919&sideLabels=191919&dates=8A8A8A&stroke=EBDBBC" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=somesh-ghaturle&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=somesh-ghaturle&bg_color=FAF9F5&color=191919&line=D97757&point=CC785C&area=true&area_color=EBDBBC&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -119,44 +119,44 @@ Cloud analytics
 ## Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-191919?style=for-the-badge&logo=python&logoColor=FAF9F5)
+![SQL](https://img.shields.io/badge/SQL-191919?style=for-the-badge&logo=postgresql&logoColor=FAF9F5)
+![PySpark](https://img.shields.io/badge/PySpark-191919?style=for-the-badge&logo=apachespark&logoColor=FAF9F5)
+![JavaScript](https://img.shields.io/badge/JavaScript-191919?style=for-the-badge&logo=javascript&logoColor=FAF9F5)
+![Shell](https://img.shields.io/badge/Shell-191919?style=for-the-badge&logo=gnu-bash&logoColor=FAF9F5)
 
 ### AI and Machine Learning
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-D97757?style=for-the-badge&logo=langchain&logoColor=FAF9F5)
+![PyTorch](https://img.shields.io/badge/PyTorch-D97757?style=for-the-badge&logo=pytorch&logoColor=FAF9F5)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-D97757?style=for-the-badge&logo=scikit-learn&logoColor=FAF9F5)
+![MLflow](https://img.shields.io/badge/MLflow-D97757?style=for-the-badge&logo=mlflow&logoColor=FAF9F5)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-D97757?style=for-the-badge&logo=huggingface&logoColor=FAF9F5)
 
 ### Data Engineering and Streaming
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-CC785C?style=for-the-badge&logo=apachespark&logoColor=FAF9F5)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-CC785C?style=for-the-badge&logo=apachekafka&logoColor=FAF9F5)
+![Airflow](https://img.shields.io/badge/Airflow-CC785C?style=for-the-badge&logo=apacheairflow&logoColor=FAF9F5)
+![dbt](https://img.shields.io/badge/dbt-CC785C?style=for-the-badge&logo=dbt&logoColor=FAF9F5)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-CC785C?style=for-the-badge&logo=databricks&logoColor=FAF9F5)
 
 ### Cloud and Analytics
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-D4A27F?style=for-the-badge)
+![Databricks](https://img.shields.io/badge/Databricks-D4A27F?style=for-the-badge&logo=databricks&logoColor=191919)
+![AWS](https://img.shields.io/badge/AWS-D4A27F?style=for-the-badge)
+![BigQuery](https://img.shields.io/badge/BigQuery-D4A27F?style=for-the-badge&logo=googlebigquery&logoColor=191919)
+![Power BI](https://img.shields.io/badge/Power_BI-D4A27F?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-D4A27F?style=for-the-badge)
 
 ### DevOps and MLOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-191919?style=for-the-badge&logo=docker&logoColor=FAF9F5)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-191919?style=for-the-badge&logo=kubernetes&logoColor=FAF9F5)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-191919?style=for-the-badge&logo=githubactions&logoColor=FAF9F5)
+![Terraform](https://img.shields.io/badge/Terraform-191919?style=for-the-badge&logo=terraform&logoColor=FAF9F5)
 
 ### Methodologies
-![Agile](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![MLOps](https://img.shields.io/badge/MLOps-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![DataOps](https://img.shields.io/badge/DataOps-FF6F00?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile%2FScrum-D97757?style=for-the-badge&logo=jira&logoColor=FAF9F5)
+![MLOps](https://img.shields.io/badge/MLOps-D97757?style=for-the-badge&logo=mlflow&logoColor=FAF9F5)
+![DataOps](https://img.shields.io/badge/DataOps-D97757?style=for-the-badge&logo=apacheairflow&logoColor=FAF9F5)
 
 ---
 
@@ -178,5 +178,5 @@ If you want to talk about AI systems, data engineering, or freelance work, reach
 - GitHub: https://github.com/somesh-ghaturle
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CC785C,50:D97757,100:EBDBBC&height=120&section=footer" alt="Footer" />
 </div>
