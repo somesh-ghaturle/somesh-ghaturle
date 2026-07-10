@@ -198,5 +198,5 @@ If you want to talk about AI systems, data engineering, or freelance work, reach
 - GitHub: https://github.com/somesh-ghaturle
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CC785C,50:D97757,100:EBDBBC&height=120&section=footer" alt="Footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:CC785C,50:D97757,100:EBDBBC&height=120&section=footer" alt="Footer" />
 </div>
