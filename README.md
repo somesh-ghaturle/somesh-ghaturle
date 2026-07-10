@@ -65,12 +65,19 @@ Shipping measurable outcomes with monitoring, reliability, and clean handoffs.
 
 ## Contribution Snake
 
+> 🐍 A snake eating its way through my GitHub contribution graph — every square it swallows is a day I shipped code. Regenerated automatically every day at midnight via GitHub Actions, and it adapts to your light/dark theme.
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/somesh-ghaturle/somesh-ghaturle/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/somesh-ghaturle/somesh-ghaturle/output/github-snake.svg" />
     <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/somesh-ghaturle/somesh-ghaturle/output/github-snake.svg" width="100%" />
   </picture>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Updates-Daily-D97757?style=for-the-badge&labelColor=191919" alt="Updates daily" />
+  <img src="https://img.shields.io/badge/Powered_by-GitHub_Actions-CC785C?style=for-the-badge&logo=githubactions&logoColor=FAF9F5&labelColor=191919" alt="Powered by GitHub Actions" />
 </div>
 
 ---
