@@ -17,13 +17,13 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Generate snake SVGs (Anthropic palette)
+      - name: Generate snake SVGs (Databricks palette)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=#D97757&color_dots=#EBDBBC,#E5C39C,#DFA07A,#D97757,#CC785C
-            dist/github-snake-dark.svg?color_snake=#D97757&color_dots=#26211D,#5C4436,#8F5B43,#C06A50,#D97757
+            dist/github-snake.svg?color_snake=#FF3621&color_dots=#EEEDE9,#FFD5CE,#FF9E8E,#FF6B55,#FF3621
+            dist/github-snake-dark.svg?color_snake=#FF3621&color_dots=#1B3139,#5C1F16,#94281B,#CC2E1E,#FF3621
 
       - name: Push SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4
