@@ -17,6 +17,8 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - uses: actions/checkout@v4
+
       - name: Generate snake SVGs (Databricks palette)
         uses: Platane/snk/svg-only@v3
         with:
@@ -24,6 +26,11 @@ jobs:
           outputs: |
             dist/github-snake.svg?color_snake=#FF3621&color_dots=#EEEDE9,#FFD5CE,#FF9E8E,#FF6B55,#FF3621
             dist/github-snake-dark.svg?color_snake=#FF3621&color_dots=#1B3139,#5C1F16,#94281B,#CC2E1E,#FF3621
+
+      - name: Generate activity graph (Databricks palette)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/activity_graph.py ${{ github.repository_owner }} dist
 
       - name: Push SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4

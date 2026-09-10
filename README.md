@@ -69,9 +69,9 @@ Shipping measurable outcomes with monitoring, reliability, and clean handoffs.
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/somesh-ghaturle/somesh-ghaturle/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/somesh-ghaturle/somesh-ghaturle/output/github-snake.svg" />
-    <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/somesh-ghaturle/somesh-ghaturle/output/github-snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/somesh-ghaturle/somesh-ghaturle/output/github-snake-dark.svg?v=databricks" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/somesh-ghaturle/somesh-ghaturle/output/github-snake.svg?v=databricks" />
+    <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/somesh-ghaturle/somesh-ghaturle/output/github-snake.svg?v=databricks" width="100%" />
   </picture>
 </div>
 
@@ -131,7 +131,11 @@ Cloud analytics
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=somesh-ghaturle&bg_color=F9F7F4&color=1B3139&line=FF3621&point=FF5F46&area=true&area_color=FFD5CE&hide_border=true" alt="Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/somesh-ghaturle/somesh-ghaturle/output/activity-graph-dark.svg?v=databricks" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/somesh-ghaturle/somesh-ghaturle/output/activity-graph.svg?v=databricks" />
+    <img alt="Contribution activity over the past year" src="https://raw.githubusercontent.com/somesh-ghaturle/somesh-ghaturle/output/activity-graph.svg?v=databricks" width="100%" />
+  </picture>
 </div>
 
 ---
@@ -153,11 +157,11 @@ Cloud analytics
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FF3621?style=for-the-badge&logo=huggingface&logoColor=F9F7F4)
 
 ### Data Engineering and Streaming
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-FF5F46?style=for-the-badge&logo=apachespark&logoColor=F9F7F4)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-FF5F46?style=for-the-badge&logo=apachekafka&logoColor=F9F7F4)
-![Airflow](https://img.shields.io/badge/Airflow-FF5F46?style=for-the-badge&logo=apacheairflow&logoColor=F9F7F4)
-![dbt](https://img.shields.io/badge/dbt-FF5F46?style=for-the-badge&logo=dbt&logoColor=F9F7F4)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-FF5F46?style=for-the-badge&logo=databricks&logoColor=F9F7F4)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-2272B4?style=for-the-badge&logo=apachespark&logoColor=F9F7F4)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-2272B4?style=for-the-badge&logo=apachekafka&logoColor=F9F7F4)
+![Airflow](https://img.shields.io/badge/Airflow-2272B4?style=for-the-badge&logo=apacheairflow&logoColor=F9F7F4)
+![dbt](https://img.shields.io/badge/dbt-2272B4?style=for-the-badge&logo=dbt&logoColor=F9F7F4)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-2272B4?style=for-the-badge&logo=databricks&logoColor=F9F7F4)
 
 ### Cloud and Analytics
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-00A972?style=for-the-badge)
@@ -174,9 +178,9 @@ Cloud analytics
 ![Terraform](https://img.shields.io/badge/Terraform-1B3139?style=for-the-badge&logo=terraform&logoColor=F9F7F4)
 
 ### Methodologies
-![Agile](https://img.shields.io/badge/Agile%2FScrum-FF3621?style=for-the-badge&logo=jira&logoColor=F9F7F4)
-![MLOps](https://img.shields.io/badge/MLOps-FF3621?style=for-the-badge&logo=mlflow&logoColor=F9F7F4)
-![DataOps](https://img.shields.io/badge/DataOps-FF3621?style=for-the-badge&logo=apacheairflow&logoColor=F9F7F4)
+![Agile](https://img.shields.io/badge/Agile%2FScrum-FFAB00?style=for-the-badge&logo=jira&logoColor=1B3139)
+![MLOps](https://img.shields.io/badge/MLOps-FFAB00?style=for-the-badge&logo=mlflow&logoColor=1B3139)
+![DataOps](https://img.shields.io/badge/DataOps-FFAB00?style=for-the-badge&logo=apacheairflow&logoColor=1B3139)
 
 ---
 
