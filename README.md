@@ -95,7 +95,7 @@ Decision-ready output: RAG systems, multi-agent workflows, dashboards, and deplo
 
 ## Contribution Snake
 
-> 🐍 A snake eating its way through my GitHub contribution graph — every square it swallows is a day I shipped code. Regenerated automatically every day at midnight via GitHub Actions, and it adapts to your light/dark theme.
+> 🐍 A snake eating its way through my GitHub contribution graph — every square it swallows is a day I shipped code. Regenerated every day at midnight by GitHub Actions, and it adapts to your light/dark theme.
 
 <div align="center">
   <picture>
@@ -155,6 +155,8 @@ Cloud analytics
 ---
 
 ## GitHub Activity
+
+> 📈 Streak and contribution curve for the past year. The curve is rendered by my own [workflow](.github/workflows/snake.yml) straight from the GitHub GraphQL API — no third-party service to go dark on me — and follows your light/dark theme.
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=somesh-ghaturle&hide_border=true&background=F9F7F4&ring=FF3621&fire=FF3621&currStreakLabel=FF5F46&currStreakNum=1B3139&sideNums=1B3139&sideLabels=1B3139&dates=5A6E75&stroke=EEEDE9" alt="GitHub Streak" />
