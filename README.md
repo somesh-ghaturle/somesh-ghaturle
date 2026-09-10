@@ -36,30 +36,60 @@
 
 ---
 
-## Highlights
+## How I Build
+
+<div align="center">
+  <sub><i>How I think about a data platform &#8212; raw landing zone to decision-ready product.</i></sub>
+</div>
 
 <table>
 <tr>
+<td width="33%" valign="top" align="center">
+
+![Bronze](https://img.shields.io/badge/BRONZE-A85A32?style=for-the-badge&logoColor=F9F7F4)
+
+**Ingest**
+
+</td>
+<td width="33%" valign="top" align="center">
+
+![Silver](https://img.shields.io/badge/SILVER-8A9AA1?style=for-the-badge&logoColor=F9F7F4)
+
+**Refine**
+
+</td>
+<td width="33%" valign="top" align="center">
+
+![Gold](https://img.shields.io/badge/GOLD-FFAB00?style=for-the-badge&logoColor=1B3139)
+
+**Activate**
+
+</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 
-### Agentic Systems
-Multi-agent workflows, retrieval, orchestration, and LLM-powered automation.
+Streaming and batch ingestion across Kafka, Spark, and cloud storage &#8212; landing raw, messy data reliably.
 
 </td>
 <td width="33%" valign="top">
 
-### Data Platforms
-Spark, Databricks, AWS, Azure, dbt, and pipeline design for production use.
+Cleaning, conforming, and modelling with dbt and Delta Lake, with quality checks and observability built in.
 
 </td>
 <td width="33%" valign="top">
 
-### Delivery Mindset
-Shipping measurable outcomes with monitoring, reliability, and clean handoffs.
+Decision-ready output: RAG systems, multi-agent workflows, dashboards, and deployed models.
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Agentic_Systems-FF3621?style=flat-square&labelColor=1B3139" alt="Agentic Systems" />
+  <img src="https://img.shields.io/badge/Data_Platforms-2272B4?style=flat-square&labelColor=1B3139" alt="Data Platforms" />
+  <img src="https://img.shields.io/badge/Delivery_Mindset-00A972?style=flat-square&labelColor=1B3139" alt="Delivery Mindset" />
+</div>
 
 ---
 
