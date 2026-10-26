@@ -118,8 +118,8 @@ Decision-ready output: RAG systems, multi-agent workflows, dashboards, and deplo
 <tr>
 <td width="68%" valign="top">
 
-- 🏢 AI Engineer at **Pyramid Consulting**: agentic workflows in LangGraph and LangChain served as FastAPI microservices, and an LLM document intelligence system over **15M+ documents** on Azure Databricks
-- 🚗 Previously **BMW Group** (LLM agents on the GAIA platform, AWS Glue pipelines), **New Balance** (10TB+ Hadoop to Synapse/Snowflake migration) and **Kagool Data**
+- 🏢 AI Engineer building agentic workflows in LangGraph and LangChain served as FastAPI microservices, and an LLM document intelligence system over **15M+ documents** on Azure Databricks
+- 🚗 Experience across enterprise, retail, and automotive: LLM agents on an enterprise GenAI platform, AWS Glue pipelines, and a 10TB+ Hadoop to Synapse/Snowflake migration
 - 🧠 Designed and deployed **15+ ML models** and pipelines processing **10TB+** of enterprise data
 - ⚙️ Fine-tuning Llama 3 and Mistral with LoRA/QLoRA, serving with vLLM, shipping with MLflow and Databricks Workflows
 - 🎓 M.S. Data Science, Pace University; research: FAIR-Agent (SARD 2025)
