@@ -1,7 +1,7 @@
 
 <!-- HERO -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF3621&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Somesh+Ghaturle;Data+Scientist+%7C+AI+Engineer;Building+AI+Agents+%26+Scalable+Pipelines;Shipping+Production+ML+Systems" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF3621&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Somesh+Ghaturle;AI+%26+Data+Engineer;Building+AI+Agents+%26+Scalable+Pipelines;Shipping+Production+ML+Systems" alt="Typing Animation" />
 </div>
 
 <div align="center">
@@ -32,7 +32,7 @@
 
 ---
 
->  Data Scientist and AI Engineer focused on multi-agent systems, scalable data engineering, and production ML. I build systems that are useful, traceable, and ready for real workloads.
+>  AI and Data Engineer with 5+ years delivering AI and analytics solutions across enterprise, retail, and automotive, impacting over $2M in business value. Currently building production agentic AI systems (LangGraph, A2A, RAG) on Databricks, with LoRA/QLoRA fine-tuning and MLflow-based MLOps.
 
 ---
 
@@ -69,12 +69,12 @@
 <tr>
 <td width="33%" valign="top">
 
-Streaming and batch ingestion across Kafka, Spark, and cloud storage &#8212; landing raw, messy data reliably.
+Batch and real-time ingestion with Spark, AWS Glue, and Azure Data Factory &#8212; landing structured and unstructured enterprise data reliably.
 
 </td>
 <td width="33%" valign="top">
 
-Cleaning, conforming, and modelling with dbt and Delta Lake, with quality checks and observability built in.
+Cleaning, conforming, and dimensional modelling on Delta Lake and Snowflake, with data governance and quality checks built in.
 
 </td>
 <td width="33%" valign="top">
@@ -118,23 +118,23 @@ Decision-ready output: RAG systems, multi-agent workflows, dashboards, and deplo
 <tr>
 <td width="68%" valign="top">
 
-- Building intelligent AI agents with LangChain, CrewAI, and custom orchestration layers
-- Designing scalable pipelines across AWS, Spark, Databricks, and Azure Data Platform services
-- Working on advanced RAG, retrieval systems, and multi-agent workflows
-- Turning messy data into decision-ready products, dashboards, and automation
-- Interested in MLOps, CI/CD, model deployment, and observability
-- Open to freelance work, collaborations, and challenging applied AI/data projects
+- 🏢 AI Engineer at **Pyramid Consulting**: agentic workflows in LangGraph and LangChain served as FastAPI microservices, and an LLM document intelligence system over **15M+ documents** on Azure Databricks
+- 🚗 Previously **BMW Group** (LLM agents on the GAIA platform, AWS Glue pipelines), **New Balance** (10TB+ Hadoop to Synapse/Snowflake migration) and **Kagool Data**
+- 🧠 Designed and deployed **15+ ML models** and pipelines processing **10TB+** of enterprise data
+- ⚙️ Fine-tuning Llama 3 and Mistral with LoRA/QLoRA, serving with vLLM, shipping with MLflow and Databricks Workflows
+- 🎓 M.S. Data Science, Pace University; research: FAIR-Agent (SARD 2025)
+- 💬 Open to AI Engineer, Agentic AI Engineer and GenAI Engineer roles
 
 </td>
 <td width="32%" valign="top">
 
 ```text
 Core focus
-AI agents
+Agentic AI
 RAG systems
-Data pipelines
+LLM fine-tuning
 MLOps
-Cloud analytics
+Data engineering
 ```
 
 </td>
@@ -147,10 +147,10 @@ Cloud analytics
 
 | Project | What it shows |
 |---|---|
-| [1-Trillion-AI-Problem](https://github.com/somesh-ghaturle/1-Trillion-AI-Problem) | Applied AI problem framing and prototype delivery |
+| [Trust Control Center — The $1 Trillion AI Problem](https://github.com/somesh-ghaturle/1-Trillion-AI-Problem) | Django platform that detects, visualizes, and resolves cross-source metric inconsistencies, the root cause of unreliable AI predictions |
+| [Agentic AI Systems](https://github.com/somesh-ghaturle/Agentic-AI-Systems) | Open-source reference of agentic architectures: multi-agent orchestration, tool use, and RAG patterns with LangGraph and LangChain |
+| [FAIR-Agent](https://github.com/somesh-ghaturle/Fair-Agent) | Multi-agent RAG research (SARD 2025) that improved faithfulness 17.4% on financial and medical benchmarks |
 | [Autonomous-Multi-Agent-Research-Action-System](https://github.com/somesh-ghaturle/Autonomous-Multi-Agent-Research-Action-System) | Multi-agent orchestration and research workflows |
-| [RAG-Ready-Web-Corpus-Builder-using-OpenClaw](https://github.com/somesh-ghaturle/RAG-Ready-Web-Corpus-Builder-using-OpenClaw) | Retrieval-ready corpus generation pipeline |
-| [Agentic-Early-Warning-Intelligence-System-for-Silent-System-Failures](https://github.com/somesh-ghaturle/Agentic-Early-Warning-Intelligence-System-for-Silent-System-Failures) | Agentic monitoring and early-warning detection |
 
 ---
 
@@ -178,56 +178,68 @@ Cloud analytics
 ![Python](https://img.shields.io/badge/Python-1B3139?style=for-the-badge&logo=python&logoColor=F9F7F4)
 ![SQL](https://img.shields.io/badge/SQL-1B3139?style=for-the-badge&logo=postgresql&logoColor=F9F7F4)
 ![PySpark](https://img.shields.io/badge/PySpark-1B3139?style=for-the-badge&logo=apachespark&logoColor=F9F7F4)
-![JavaScript](https://img.shields.io/badge/JavaScript-1B3139?style=for-the-badge&logo=javascript&logoColor=F9F7F4)
-![Shell](https://img.shields.io/badge/Shell-1B3139?style=for-the-badge&logo=gnu-bash&logoColor=F9F7F4)
+![R](https://img.shields.io/badge/R-1B3139?style=for-the-badge&logo=r&logoColor=F9F7F4)
+![Java](https://img.shields.io/badge/Java-1B3139?style=for-the-badge&logo=openjdk&logoColor=F9F7F4)
+![C++](https://img.shields.io/badge/C%2B%2B-1B3139?style=for-the-badge&logo=cplusplus&logoColor=F9F7F4)
 
 ### AI and Machine Learning
+![LangGraph](https://img.shields.io/badge/LangGraph-FF3621?style=for-the-badge&logo=langgraph&logoColor=F9F7F4)
 ![LangChain](https://img.shields.io/badge/LangChain-FF3621?style=for-the-badge&logo=langchain&logoColor=F9F7F4)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF3621?style=for-the-badge&logoColor=F9F7F4)
 ![PyTorch](https://img.shields.io/badge/PyTorch-FF3621?style=for-the-badge&logo=pytorch&logoColor=F9F7F4)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-FF3621?style=for-the-badge&logo=scikit-learn&logoColor=F9F7F4)
 ![MLflow](https://img.shields.io/badge/MLflow-FF3621?style=for-the-badge&logo=mlflow&logoColor=F9F7F4)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FF3621?style=for-the-badge&logo=huggingface&logoColor=F9F7F4)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF3621?style=for-the-badge&logo=tensorflow&logoColor=F9F7F4)
+![vLLM](https://img.shields.io/badge/vLLM-FF3621?style=for-the-badge&logoColor=F9F7F4)
+![OpenAI](https://img.shields.io/badge/OpenAI-FF3621?style=for-the-badge&logo=openai&logoColor=F9F7F4)
 
-### Data Engineering and Streaming
+### Data Engineering
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-2272B4?style=for-the-badge&logo=apachespark&logoColor=F9F7F4)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-2272B4?style=for-the-badge&logo=apachekafka&logoColor=F9F7F4)
-![Airflow](https://img.shields.io/badge/Airflow-2272B4?style=for-the-badge&logo=apacheairflow&logoColor=F9F7F4)
-![dbt](https://img.shields.io/badge/dbt-2272B4?style=for-the-badge&logo=dbt&logoColor=F9F7F4)
+![Snowflake](https://img.shields.io/badge/Snowflake-2272B4?style=for-the-badge&logo=snowflake&logoColor=F9F7F4)
 ![Delta Lake](https://img.shields.io/badge/Delta_Lake-2272B4?style=for-the-badge&logo=databricks&logoColor=F9F7F4)
+![Hadoop](https://img.shields.io/badge/Hadoop-2272B4?style=for-the-badge&logo=apachehadoop&logoColor=F9F7F4)
+![Pandas](https://img.shields.io/badge/Pandas-2272B4?style=for-the-badge&logo=pandas&logoColor=F9F7F4)
 
 ### Cloud and Analytics
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-00A972?style=for-the-badge)
 ![Databricks](https://img.shields.io/badge/Databricks-00A972?style=for-the-badge&logo=databricks&logoColor=F9F7F4)
 ![AWS](https://img.shields.io/badge/AWS-00A972?style=for-the-badge)
+![GCP](https://img.shields.io/badge/Google_Cloud-00A972?style=for-the-badge&logo=googlecloud&logoColor=F9F7F4)
 ![BigQuery](https://img.shields.io/badge/BigQuery-00A972?style=for-the-badge&logo=googlebigquery&logoColor=F9F7F4)
 ![Power BI](https://img.shields.io/badge/Power_BI-00A972?style=for-the-badge)
 ![Tableau](https://img.shields.io/badge/Tableau-00A972?style=for-the-badge)
 
 ### DevOps and MLOps
 ![Docker](https://img.shields.io/badge/Docker-1B3139?style=for-the-badge&logo=docker&logoColor=F9F7F4)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-1B3139?style=for-the-badge&logo=kubernetes&logoColor=F9F7F4)
+![FastAPI](https://img.shields.io/badge/FastAPI-1B3139?style=for-the-badge&logo=fastapi&logoColor=F9F7F4)
+![Ray](https://img.shields.io/badge/Ray-1B3139?style=for-the-badge&logo=ray&logoColor=F9F7F4)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1B3139?style=for-the-badge&logo=githubactions&logoColor=F9F7F4)
 ![Terraform](https://img.shields.io/badge/Terraform-1B3139?style=for-the-badge&logo=terraform&logoColor=F9F7F4)
 
 ### Methodologies
 ![Agile](https://img.shields.io/badge/Agile%2FScrum-FFAB00?style=for-the-badge&logo=jira&logoColor=1B3139)
 ![MLOps](https://img.shields.io/badge/MLOps-FFAB00?style=for-the-badge&logo=mlflow&logoColor=1B3139)
-![DataOps](https://img.shields.io/badge/DataOps-FFAB00?style=for-the-badge&logo=apacheairflow&logoColor=1B3139)
+![Data Governance](https://img.shields.io/badge/Data_Governance-FFAB00?style=for-the-badge&logoColor=1B3139)
 
 ---
 
 ## Current Focus
 
-- Advanced RAG evaluation and retrieval quality
-- Multi-agent orchestration patterns
-- Production-grade data pipelines and monitoring
-- Model deployment, automation, and reliability
+- Production agentic AI systems with LangGraph, A2A, and RAG on Databricks
+- LoRA/QLoRA fine-tuning of open models and low-latency serving with vLLM
+- MLflow-based MLOps: model registry, workflows, and monitoring
+- RAG evaluation with Ragas and LangSmith
+
+## Certifications
+
+Databricks for Generative AI · AWS Databricks Platform Architect · Azure AZ-900 · DP-900 · AI-900 · PL-900 · PG Diploma in Full Stack Data Science
 
 ---
 
 ## Contact
 
-If you want to talk about AI systems, data engineering, or freelance work, reach out here:
+If you want to talk about AI systems, data engineering, or open roles, reach out here:
 
 - LinkedIn: https://www.linkedin.com/in/somesh-ghaturle/
 - Email: someshghaturle@gmail.com
